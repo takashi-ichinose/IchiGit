@@ -3,7 +3,9 @@ package com.example.ichigit;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
-
+/*
+ * Git—ûK‚Ìˆ×‚ÌƒRƒƒ“ƒg
+ * */
 public class MainActivity extends Activity {
 
 	@Override
